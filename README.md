@@ -6,6 +6,7 @@ Currently active playing CTF with [SNI Cybersecurity Team](https://serikatnewbie
 Sometime I actively doing research related to Digital Forensics and making CTF problems to be solved in some CTF events.
 
 My LinkedIn: https://www.linkedin.com/in/jomrbn/
+
 Blog: https://1keii.vercel.app/
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonscafe)](https://github.com/anuraghazra/github-readme-stats)
