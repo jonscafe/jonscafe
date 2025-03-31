@@ -7,7 +7,7 @@ Sometime I actively doing research related to Digital Forensics and making CTF p
 
 My LinkedIn: https://www.linkedin.com/in/jomrbn/
 
-Blog: https://1keii.vercel.app/
+Blog: https://keii.codes/
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonscafe)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonscafe&layout=compact)
