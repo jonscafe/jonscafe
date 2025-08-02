@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm Jonathan Sebastian Marbun, a passionate and enthusiastic person in the field of Cyber Security especially in Digital Forensics.
 
-Currently active playing CTF with [SNI Cybersecurity Team](https://serikatnewbie.me).
+Currently active playing CTF with [SNI Cybersecurity Team](https://sniteam.xyz/).
 
 Sometime I actively doing research related to Digital Forensics and making CTF problems to be solved in some CTF events.
 
